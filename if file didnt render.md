@@ -1,1 +1,1 @@
-if file didnt render, please refresh the or download the content raw Thanks.
+if file didnt render, please refresh it or download the content raw Thanks.
